@@ -61,6 +61,6 @@ Promover a representatividade feminina na Tecnologia da Informação por meio do
 
 ---
 
-## 👩‍💻 Autoria
+## Autoria
 
 Projeto desenvolvido por Erica Carvalho para fins acadêmicos.
