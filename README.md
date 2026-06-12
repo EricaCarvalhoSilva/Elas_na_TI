@@ -63,4 +63,4 @@ Promover a representatividade feminina na Tecnologia da Informação por meio do
 
 ## Autoria
 
-Projeto desenvolvido por Erica Carvalho para fins acadêmicos.
+Projeto desenvolvido por Erica Cristiana, Maria Vitoria e Helen da Cruz para fins acadêmicos.
